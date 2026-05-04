@@ -1,0 +1,3 @@
+obj\Debug\net8.0/User.cs \
+obj\Debug\net8.0/UserGrpc.cs: C:/Users/Ali Joodaki/.nuget/packages/grpc.tools/2.80.0/build/native/include/google/protobuf/timestamp.proto\
+ ../Rira.GrpcApp/Protos/user.proto

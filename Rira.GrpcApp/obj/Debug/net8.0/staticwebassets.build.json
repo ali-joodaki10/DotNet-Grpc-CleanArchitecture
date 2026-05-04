@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KuQZhSfE+G4xdKIPRUf/9xIiDfbboxXAHoMlJYF6tc0=",
+  "Source": "Rira.GrpcApp",
+  "BasePath": "_content/Rira.GrpcApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
